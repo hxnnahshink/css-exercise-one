@@ -36,3 +36,16 @@ h3 {
   margin 10px 0;
   width: 100%;
 }
+
+div1 {
+  background-color: orange;
+}
+
+div2 {
+  background-color: red;
+}
+
+div3 {
+  background-color: green;
+}
+/* }added background colors to last 3 div elements after changing their class names on the index.html file
