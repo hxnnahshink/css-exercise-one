@@ -3,7 +3,7 @@ body {
 }
 
 nav {
-  background color: yellow;
+  background-color: yellow;
   height: 100px;
   margin-top: -10px;
   position: fixed;
@@ -38,7 +38,7 @@ h3 {
 }
 
 .div1 {
-  background-color: orange;
+  background-color: blue;
 }
 
 .div2 {
@@ -46,6 +46,6 @@ h3 {
 }
 
 .div3 {
-  background-color: green;
+  background-color: pink;
 }
 /* }added background colors to last 3 div elements after changing their class names on the index.html file
